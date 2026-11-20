@@ -1,28 +1,31 @@
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/icon-512.png" width="120" alt="Nox Sound Icon" />
 </p>
 
 <h1 align="center">Nox Sound</h1>
 
 <p align="center">
-  <b>A refined music experience, designed around your sound.</b>
+  <b>Nox Sound is a fast, ad-free Android music player built for clean offline and online listening.<br />
+  It combines smooth background playback, direct audio downloads, and synchronized lyrics in a refined dark interface.<br />
+  Designed for effortless library management and complete control over your audio files.</b>
 </p>
 
 <p align="center">
-  Nox Sound brings together seamless playback, personalized listening, synchronized lyrics, and a clean interface for a more immersive music experience.
+  <img src="https://img.shields.io/badge/Platform-Android-F43F5E?style=flat-square" alt="Platform: Android" />
+  <img src="https://img.shields.io/badge/UI-Material%203-1E1E2E?style=flat-square" alt="UI: Material 3" />
+  <img src="https://img.shields.io/badge/Developer-Hance.Inc-0F172A?style=flat-square" alt="Developer: Hance.Inc" />
 </p>
 
 ---
 
-## Features
+## Key Features
 
-* **YouTube Music Integration**: Connect with YouTube Music to explore your library and enjoy seamless playback.
-* **High-Quality Audio**: Experience clear, rich sound with smooth playback.
-* **Synced Lyrics**: Follow lyrics in real time with synchronized scrolling.
-* **Smart Sleep Timer**: Automatically stop playback with a customizable countdown.
-* **Favorites**: Keep your favorite tracks within easy reach.
-* **Personal Playlists**: Create and organize your own music collections.
-* **Listening Statistics**: Explore your listening habits, top tracks, and playback activity.
+- **Direct Audio Downloads:** Download tracks directly to `Music/Nox` with selectable bitrates, chunked high-speed transfers, automatic filename formatting, and MediaStore integration.
+- **Hybrid Playback Engine:** Seamlessly stream online tracks or play local audio files with stable background service execution and responsive queue controls.
+- **Real-Time Synced Lyrics:** Displays time-synced lyrics with smooth automatic scrolling matched to the current playback position.
+- **Smart Sleep Timer:** Configure custom playback countdowns with quick step adjustments to pause audio automatically.
+- **Library, Favorites, and Playlists:** Organize local and saved music into custom playlists, mark favorite tracks with one tap, and browse your collection cleanly.
+- **Refined Dark Material UI:** Built with consistent card surfaces, custom typography, and uncluttered controls optimized for daily use.
 
 ---
 
@@ -32,34 +35,34 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1Nox.png" width="100%" alt="Splash" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1Nox.png" width="100%" alt="Splash Screen" />
         <br />
         <b>Splash</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2Nox.png" width="100%" alt="Player" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2Nox.png" width="100%" alt="Player Screen" />
         <br />
         <b>Player</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3Nox.png" width="100%" alt="Home" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3Nox.png" width="100%" alt="Home Screen" />
         <br />
         <b>Home</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4Nox.png" width="100%" alt="Lyrics" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4Nox.png" width="100%" alt="Lyrics Screen" />
         <br />
         <b>Lyrics</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5Nox.png" width="100%" alt="Settings" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5Nox.png" width="100%" alt="Setting Screen" />
         <br />
-        <b>Settings</b>
+        <b>Setting</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6Nox.png" width="100%" alt="Library" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6Nox.png" width="100%" alt="Library Screen" />
         <br />
         <b>Library</b>
       </td>
@@ -69,7 +72,6 @@
 
 ---
 
-<p align="center">
-  <b>Nox Sound</b><br />
-  Made for the way you listen.
-</p>
+## Developer
+
+Maintained by **Hance.Inc** (`Hance-PDv`).
