@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/icon-512.png" width="120" alt="Nox Sound Icon" />
+  <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/app_icon.png" width="120" alt="Nox Sound Icon" />
 </p>
 
 <h1 align="center">Nox Sound</h1>
@@ -18,8 +18,18 @@
 
 ## Features
 
-### YouTube Music Account & Online Streaming
-Sign in directly with your YouTube Music account to stream your saved and favorite tracks online, access your personal library, and switch smoothly between online playback and local files without leaving the app.
+### Online Streaming & Discovery
+Explore trending tracks and stream music smoothly online with smart search, live suggestions, and quick switching between streamed audio and offline files.
+
+---
+
+### Data-Smart Offline Downloads & Cache Reuse
+Save tracks for offline listening while reusing already-streamed audio and cached artwork to avoid duplicate downloads, paired with a dedicated Download Manager and stream cache controls.
+
+---
+
+### Instant Offline Playback
+Play saved offline tracks immediately with zero extra data usage, even after clearing streaming cache, with multi-select batch deletion and safe back-button handling.
 
 ---
 
@@ -43,8 +53,8 @@ Save tracks you love with a single tap and build custom playlists tailored to di
 
 ---
 
-### Clean Dark Interface
-Navigate your home feed, player, lyrics, and library through a dark, low-distraction layout built for clarity and fast everyday use.
+### Redesigned Dark Interface
+Experience a refreshed color palette and updated layouts across Home, Discovery, Search, and Settings for clearer hierarchy, frosted glass accents, and smoother everyday navigation.
 
 ---
 
@@ -53,37 +63,47 @@ Navigate your home feed, player, lyrics, and library through a dark, low-distrac
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1Nox.png" width="100%" alt="Splash Screen" />
-        <br />
-        <b>Splash</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2Nox.png" width="100%" alt="Player Screen" />
-        <br />
-        <b>Player</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3Nox.png" width="100%" alt="Home Screen" />
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png" width="100%" alt="Home Screen" />
         <br />
         <b>Home</b>
       </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png" width="100%" alt="Discovery Screen" />
+        <br />
+        <b>Discovery</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png" width="100%" alt="Search Screen" />
+        <br />
+        <b>Search</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png" width="100%" alt="Player Screen" />
+        <br />
+        <b>Player</b>
+      </td>
     </tr>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4Nox.png" width="100%" alt="Lyrics Screen" />
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png" width="100%" alt="Lyrics Screen" />
         <br />
         <b>Lyrics</b>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5Nox.png" width="100%" alt="Setting Screen" />
-        <br />
-        <b>Setting</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6Nox.png" width="100%" alt="Library Screen" />
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png" width="100%" alt="Library Screen" />
         <br />
         <b>Library</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png" width="100%" alt="Download Manager Screen" />
+        <br />
+        <b>Download Manager</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png" width="100%" alt="Setting Screen" />
+        <br />
+        <b>Setting</b>
       </td>
     </tr>
   </table>
