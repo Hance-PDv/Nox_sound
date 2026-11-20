@@ -5,27 +5,26 @@
 <h1 align="center">Nox Sound</h1>
 
 <p align="center">
-  <b>Nox Sound is a fast, ad-free Android music player built for clean offline and online listening.<br />
-  It combines smooth background playback, direct audio downloads, and synchronized lyrics in a refined dark interface.<br />
-  Designed for effortless library management and complete control over your audio files.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-F43F5E?style=flat-square" alt="Platform: Android" />
-  <img src="https://img.shields.io/badge/UI-Material%203-1E1E2E?style=flat-square" alt="UI: Material 3" />
-  <img src="https://img.shields.io/badge/Developer-Hance.Inc-0F172A?style=flat-square" alt="Developer: Hance.Inc" />
+  <b>A fast, ad-free Android music player for local and online tracks.<br />
+  Includes direct audio downloads, background playback, and synced lyrics.<br />
+  Built for clean library control and smooth daily listening.</b>
 </p>
 
 ---
 
-## Key Features
+## Features
 
-- **Direct Audio Downloads:** Download tracks directly to `Music/Nox` with selectable bitrates, chunked high-speed transfers, automatic filename formatting, and MediaStore integration.
-- **Hybrid Playback Engine:** Seamlessly stream online tracks or play local audio files with stable background service execution and responsive queue controls.
-- **Real-Time Synced Lyrics:** Displays time-synced lyrics with smooth automatic scrolling matched to the current playback position.
-- **Smart Sleep Timer:** Configure custom playback countdowns with quick step adjustments to pause audio automatically.
-- **Library, Favorites, and Playlists:** Organize local and saved music into custom playlists, mark favorite tracks with one tap, and browse your collection cleanly.
-- **Refined Dark Material UI:** Built with consistent card surfaces, custom typography, and uncluttered controls optimized for daily use.
+- **Direct Audio Downloads:** Download songs straight to `Music/Nox` with bitrate selection, fast chunked downloading, organized filenames, and MediaStore support.
+
+- **Smooth Playback:** Stream online audio or play local files with stable background playback and quick queue control.
+
+- **Synced Lyrics:** View real-time synchronized lyrics that scroll smoothly with the current track.
+
+- **Sleep Timer:** Set a custom countdown timer to stop playback automatically.
+
+- **Library & Playlists:** Manage local tracks, favorites, and custom playlists in one place.
+
+- **Clean Dark Interface:** Custom dark cards and focused controls designed without visual clutter.
 
 ---
 
@@ -69,9 +68,3 @@
     </tr>
   </table>
 </div>
-
----
-
-## Developer
-
-Maintained by **Hance.Inc** (`Hance-PDv`).
