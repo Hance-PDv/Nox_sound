@@ -8,6 +8,12 @@
   <b>A music player built for a smooth, responsive, and focused listening experience on Android.</b>
 </p>
 
+<p align="center">
+  <a href="https://rookieenough.github.io/Orion-Data/app/?id=nox-sound">
+    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" alt="Get it on Orion Store" height="52" />
+  </a>
+</p>
+
 ---
 
 ## Features
