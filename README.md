@@ -5,26 +5,40 @@
 <h1 align="center">Nox Sound</h1>
 
 <p align="center">
-  <b>A fast, ad-free Android music player for local and online tracks.<br />
-  Includes direct audio downloads, background playback, and synced lyrics.<br />
-  Built for clean library control and smooth daily listening.</b>
+  <b>A music player built for a smooth, responsive, and focused listening experience on Android.</b>
 </p>
 
 ---
 
 ## Features
 
-- **Direct Audio Downloads:** Download songs straight to `Music/Nox` with bitrate selection, fast chunked downloading, organized filenames, and MediaStore support.
+### YouTube Music Account & Online Streaming
+Sign in directly with your YouTube Music account to stream your saved and favorite tracks online, access your personal library, and switch smoothly between online playback and local files without leaving the app.
 
-- **Smooth Playback:** Stream online audio or play local files with stable background playback and quick queue control.
+---
 
-- **Synced Lyrics:** View real-time synchronized lyrics that scroll smoothly with the current track.
+### Background Playback & Queue Control
+Keep audio running reliably in the background while using other apps, with responsive playback controls, quick track skipping, and flexible queue management for uninterrupted listening.
 
-- **Sleep Timer:** Set a custom countdown timer to stop playback automatically.
+---
 
-- **Library & Playlists:** Manage local tracks, favorites, and custom playlists in one place.
+### Real-Time Synced Lyrics
+Follow every song line by line with time-synchronized lyrics that track your playback position automatically and scroll smoothly as the music plays.
 
-- **Clean Dark Interface:** Custom dark cards and focused controls designed without visual clutter.
+---
+
+### Smart Sleep Timer
+Set a custom countdown timer before sleep or focus sessions so playback stops cleanly on schedule without draining battery overnight.
+
+---
+
+### Favorites & Custom Playlists
+Save tracks you love with a single tap and build custom playlists tailored to different moods, sessions, or artists with easy organization.
+
+---
+
+### Clean Dark Interface
+Navigate your home feed, player, lyrics, and library through a dark, low-distraction layout built for clarity and fast everyday use.
 
 ---
 
