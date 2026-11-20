@@ -63,48 +63,51 @@ Experience a refreshed color palette and updated layouts across Home, Discovery,
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png" width="100%" alt="Home Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png" width="100%" height="360" alt="Home Screen" />
         <br />
-        <b>Home</b>
+        <b><sub>Home</sub></b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png" width="100%" alt="Discovery Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png" width="100%" height="360" alt="Discovery Screen" />
         <br />
-        <b>Discovery</b>
+        <b><sub>Discovery</sub></b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png" width="100%" alt="Search Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png" width="100%" height="360" alt="Search Screen" />
         <br />
-        <b>Search</b>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png" width="100%" alt="Player Screen" />
-        <br />
-        <b>Player</b>
+        <b><sub>Search</sub></b>
       </td>
     </tr>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png" width="100%" alt="Lyrics Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png" width="100%" height="360" alt="Player Screen" />
         <br />
-        <b>Lyrics</b>
+        <b><sub>Player</sub></b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png" width="100%" alt="Library Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png" width="100%" height="360" alt="Lyrics Screen" />
         <br />
-        <b>Library</b>
+        <b><sub>Lyrics</sub></b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png" width="100%" alt="Download Manager Screen" />
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png" width="100%" height="360" alt="Library Screen" />
         <br />
-        <b>Download Manager</b>
+        <b><sub>Library</sub></b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png" width="100%" alt="Setting Screen" />
+    </tr>
+    <tr>
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png" width="100%" height="360" alt="Download Manager Screen" />
         <br />
-        <b>Setting</b>
+        <b><sub>Download Manager</sub></b>
       </td>
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png" width="100%" height="360" alt="Setting Screen" />
+        <br />
+        <b><sub>Setting</sub></b>
+      </td>
+      <td align="center" width="33.33%"></td>
     </tr>
   </table>
 </div>
