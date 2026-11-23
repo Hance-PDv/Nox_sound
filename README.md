@@ -66,29 +66,55 @@ Experience a refreshed color palette and updated layouts across Home, Discovery,
 
 ## Screenshots
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png" width="175" alt="Home" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png" width="175" alt="Discovery" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png" width="175" alt="Search" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png" width="175" alt="Player" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png" width="175" alt="Lyrics" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png" width="175" alt="Library" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png" width="175" alt="Download Manager" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png">
-    <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png" width="175" alt="Settings" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/1NoxSound.png" width="240" alt="Home Screen" />
+        <br />
+        <b><sub>Home</sub></b>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/2NoxSound.png" width="240" alt="Discovery Screen" />
+        <br />
+        <b><sub>Discovery</sub></b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/3NoxSound.png" width="240" alt="Search Screen" />
+        <br />
+        <b><sub>Search</sub></b>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/4NoxSound.png" width="240" alt="Player Screen" />
+        <br />
+        <b><sub>Player</sub></b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/5NoxSound.png" width="240" alt="Lyrics Screen" />
+        <br />
+        <b><sub>Lyrics</sub></b>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/6NoxSound.png" width="240" alt="Library Screen" />
+        <br />
+        <b><sub>Library</sub></b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/7NoxSound.png" width="240" alt="Download Manager Screen" />
+        <br />
+        <b><sub>Download Manager</sub></b>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Nox_sound/refs/heads/main/Screenshot/8NoxSound.png" width="240" alt="Settings Screen" />
+        <br />
+        <b><sub>Settings</sub></b>
+      </td>
+    </tr>
+  </table>
+</div>
